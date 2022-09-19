@@ -1,5 +1,4 @@
 //Name: Al-Warith Al-Rawahi
-//Student ID: R00196016
 
 #include <stdio.h>
 #include <stdlib.h>
